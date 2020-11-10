@@ -29,11 +29,11 @@ def do_it(pattern,shapeY,pos,T,trim=False,rH=False, rV=False, tp=False):
 
 ################################
 
-#pattern = "example1"
-#shapeY = 10
-#pos = (6,4)
-#T = 15
-#do_it(pattern,shapeY,pos,T)
+pattern = "example1"
+shapeY = 10
+pos = (6,4)
+T = 15
+do_it(pattern,shapeY,pos,T)
 
 #pattern = "blinker"
 #shapeY = 9
@@ -83,11 +83,11 @@ def do_it(pattern,shapeY,pos,T,trim=False,rH=False, rV=False, tp=False):
 #T = 100
 #do_it(pattern,shapeY,pos,T)
 
-pattern = "Rpento"
-shapeY = 100
-pos = (70,55)
-T = 1500
-do_it(pattern,shapeY,pos,T,trim=True)
+# pattern = "Rpento"
+# shapeY = 100
+# pos = (70,55)
+# T = 1500
+# do_it(pattern,shapeY,pos,T,trim=True)
 
 #pattern = "cthulhu"
 #shapeY = 17
